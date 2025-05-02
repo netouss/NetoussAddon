@@ -1,0 +1,7 @@
+## Interface: 100205
+## Title: NetoussAddon
+## Notes: Description de votre addon
+## Author: Netouss
+## Version: 1.0.0
+
+main.lua
